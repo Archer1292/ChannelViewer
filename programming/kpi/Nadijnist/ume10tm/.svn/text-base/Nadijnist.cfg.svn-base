@@ -1,0 +1,41 @@
+-$A+
+-$B-
+-$C+
+-$D+
+-$E-
+-$F-
+-$G+
+-$H+
+-$I+
+-$J+
+-$K-
+-$L+
+-$M-
+-$N+
+-$O-
+-$P+
+-$Q-
+-$R-
+-$S-
+-$T-
+-$U-
+-$V+
+-$W-
+-$X+
+-$Y-
+-$Z1
+-cg
+-AWinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;PROG=<D>
+-H+
+-W+
+-M
+-$M16384,1048576
+-K$00400000
+-E"d:\Nadijnist\TryEXE"
+-N"d:\Temp"
+-LE"g:\program files\borland\delphi5\Projects\Bpl"
+-LN"g:\program files\borland\delphi5\Projects\Bpl"
+-U"g:\program files\borland\delphi5\Components\Hint\Sources;e:\Nadijnist\Components\Code\A812;e:\Nadijnist\Components\Code\Angle;e:\Nadijnist\Components\Code\Encoder300;e:\Nadijnist\Components\Code\Engins;e:\Nadijnist\Components\Code\Graph;e:\Nadijnist\Components\Code\Indicator;e:\Nadijnist\Components\Code;d:\Nadijnist\Components\Hint;d:\Temp"
+-O"g:\program files\borland\delphi5\Components\Hint\Sources;e:\Nadijnist\Components\Code\A812;e:\Nadijnist\Components\Code\Angle;e:\Nadijnist\Components\Code\Encoder300;e:\Nadijnist\Components\Code\Engins;e:\Nadijnist\Components\Code\Graph;e:\Nadijnist\Components\Code\Indicator;e:\Nadijnist\Components\Code;d:\Nadijnist\Components\Hint;d:\Temp"
+-I"g:\program files\borland\delphi5\Components\Hint\Sources;e:\Nadijnist\Components\Code\A812;e:\Nadijnist\Components\Code\Angle;e:\Nadijnist\Components\Code\Encoder300;e:\Nadijnist\Components\Code\Engins;e:\Nadijnist\Components\Code\Graph;e:\Nadijnist\Components\Code\Indicator;e:\Nadijnist\Components\Code;d:\Nadijnist\Components\Hint;d:\Temp"
+-R"g:\program files\borland\delphi5\Components\Hint\Sources;e:\Nadijnist\Components\Code\A812;e:\Nadijnist\Components\Code\Angle;e:\Nadijnist\Components\Code\Encoder300;e:\Nadijnist\Components\Code\Engins;e:\Nadijnist\Components\Code\Graph;e:\Nadijnist\Components\Code\Indicator;e:\Nadijnist\Components\Code;d:\Nadijnist\Components\Hint;d:\Temp"

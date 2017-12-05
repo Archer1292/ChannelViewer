@@ -1,0 +1,45 @@
+package AllComponents;
+
+{$R *.RES}
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$IMPLICITBUILD OFF}
+
+requires
+  Vcl50;
+
+contains
+  CommonTypes in 'Code\CommonTypes.pas',
+  A812PG in 'Code\A812\A812PG.pas',
+  Encoder300 in 'Code\Encoder300\Encoder300.pas',
+  Angle in 'Code\Angle\Angle.pas',
+  PortProcess in 'code\PortProcess.pas',
+  StepType in 'Code\Engins\StepType.pas',
+  NewIndicator in 'Code\Indicator\NewIndicator.pas',
+  Engins in 'Code\Engins\Engins.pas',
+  MiddleAverage in 'Code\MiddleAverage\MiddleAverage.pas',
+  HiokiComPort in 'Code\HiokiTester\HiokiComPort.pas',
+  A812 in '..\..\thirdparties\A812\A812.PAS',
+  Enc32 in '..\..\thirdparties\ENC32\Enc32.pas',
+  BufferedImage in 'Code\BufferedImage\BufferedImage.pas';
+
+end.
